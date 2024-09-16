@@ -1,0 +1,10 @@
+9
+leaped,forward 0.16666666666666666,up 0.3333333333333333,down 0.5,to 0.6666666666666666,scrambling 0.8333333333333334,from 1.0
+corncobs,being 1.0
+forward,leaped 1.0
+up,leaped 1.0
+down,leaped 1.0
+to,leaped 1.0
+scrambling,leaped 1.0
+from,leaped 1.0
+being,leaped 1.0
